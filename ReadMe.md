@@ -1,4 +1,4 @@
-# Object Oriented ptograming Assignment 2
+# Object Oriented programing Assignment 2
 
 This assignment demonstrates the application of Python functional programming concepts to analyze data across multiple domains. The tasks include electricity billing, market basket pricing, temperature tracking, school fee payments, agricultural yield estimation, and website status aggregation. Throughout this assignment, we utilized Python features such as `map()`, `filter()`, `zip()`, `zip_longest()`, lambda functions, list/dictionary comprehensions, *args, **kwargs, and generators.
 
